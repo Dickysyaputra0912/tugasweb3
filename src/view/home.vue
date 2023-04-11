@@ -8,7 +8,7 @@
              height="300px" width="300px">
       </div>
       <div class="content text-center">
-        <h1 class="text-white">Muhamamd Khalil Gibran</h1>
+        <h1 class="text-white">Dicky syaputra</h1>
         <h2>Selamat Datang</h2>
       </div>
     </div>
